@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import { ArrowRight, Zap, Brain, Code, Sun, Building, Newspaper, ChevronDown } from 'lucide-react'
 import Link from 'next/link'
 import Header from '../components/Header'
-import InstancingHero from '../../../components/instancing-hero'
+import InstancingHero from '../components/instancing-hero'
 
 
 const industries = [
